@@ -5,6 +5,3 @@
 [submodule "climateStability"]
 	path = climateStability
 	url = https://github.com/hannahlowens/climatestability
-[submodule "voluModel"]
-	path = voluModel
-	url = https://github.com/hannahlowens/volumodel
